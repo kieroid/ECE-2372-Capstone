@@ -9,7 +9,7 @@ Software Project Criteria: [here](https://links.shellfish.racing/-6WxszyVYi7)
 
 ## Repository Layout
 
-Here is the layout of the project:
+Here is the layout of the repository:
 ```text
 ECE 2372 CAPSTONE
 ──────────────────
