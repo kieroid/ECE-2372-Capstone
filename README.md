@@ -7,6 +7,8 @@ Hardware Project Criteria: [here](https://links.shellfish.racing/-WPqNnPAbBD)
 
 Software Project Criteria: [here](https://links.shellfish.racing/-6WxszyVYi7)
 
+## Repository Layout
+
 Here is the layout of the project:
 ```text
 ECE 2372 CAPSTONE
