@@ -20,6 +20,7 @@ ECE 2372 CAPSTONE
 │   └── testbench.v        <- the testbench to the verilog file
 └── traffic                <- folder containing all of the files regarding the traffic light
     ├── photos/            <- photos
+    ├── k_maps/            <- k maps, including the templates
     ├── circuitjs.txt      <- circuitjs circuit (https://www.falstad.com/circuit/circuitjs.html)
     └── traffic_light.vcb  <- visual circuit board circuit
 ```
