@@ -13,7 +13,7 @@ Here is the layout of the project:
 ```text
 ECE 2372 CAPSTONE
 ──────────────────
-├── slides.pdf             <- the slides in a PDF form
+├── slides.pptx            <- the slides in powerpoint form
 ├── README.md              <- readme file
 ├── verilog                <- verilog project
 │   ├── waveform/          <- folder containing the waveform graphs
